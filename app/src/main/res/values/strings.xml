@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Comida Tradicional</string>
+    <string name="nomePais">Brasil</string>
+    <string name="nomeComida">Feijoada</string>
+    <string name="descricaoComida" translatable="false">@string/nomeComida</string>
+    <string name="descricaoBandeira" translatable="false">@string/nomePais</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">παραδοσιακή εφαρμογή τροφίμων</string>
+    <string name="nomePais">Ελλάδα</string>
+    <string name="nomeComida">Σουβλάκι και Γύρο</string>
+</resources>

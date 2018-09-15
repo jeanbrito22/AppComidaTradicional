@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App di cibo tradizionale</string>
+    <string name="nomePais">Italia</string>
+    <string name="nomeComida">Spaghetti</string>
+</resources>
